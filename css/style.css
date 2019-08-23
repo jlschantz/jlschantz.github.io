@@ -55,9 +55,10 @@ li a {
   text-decoration: none;
 }
 
-#showcase {
+#navbarline {
   background-color: cadetblue;
   text-align: center;
+  height: 1px;
   margin-bottom: 30px;
 }
 
