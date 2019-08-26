@@ -1,6 +1,6 @@
 body {
-  background-color: #333;
-  color: #fff;
+  background-color: #fff;
+  color: #333;
   font-family: "Times New Roman", Times, serif;
   font-size: 16px;
   line-height: 1.6em;
@@ -17,6 +17,8 @@ body {
   background-color: cadetblue;
   color: #333;
   text-align: center;
+  padding: 20px;
+  margin-bottom: 30px;
 }
 
 #navbar {
@@ -76,6 +78,7 @@ li a {
   color: #333;
   padding: 10px;
   box-sizing: border-box;
+  text-align: center;
 }
 
 #main-footer {
@@ -86,20 +89,25 @@ li a {
   margin-top: 40px;
 }
 
-#downloadResume {
-  text-align: center;
-}
-
 #JacobSchantzImage {
   height: 300px;
   width: 300px;
-  border-radius: 10%;
+  border-radius: 100%;
+}
+
+#image {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 @media (max-width: 600px) {
   #main {
     width: 100%;
     float: none;
+    margin-bottom: 20px;
   }
 
   #sidebar {
