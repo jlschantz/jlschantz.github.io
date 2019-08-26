@@ -122,4 +122,10 @@ li a {
     width: 100%;
     float: none;
   }
+
+  #JacobSchantzImage {
+    height: 260px;
+    width: 260px;
+    border-radius: 100%;
+  }
 }
