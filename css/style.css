@@ -36,6 +36,10 @@ body {
   display: inline;
 }
 
+a:hover {
+  color: #fff;
+}
+
 li a,
 aside a {
   text-decoration: none;
@@ -53,8 +57,12 @@ li a {
 }
 
 #aboutParagraph a {
-  color: cadetblue;
+  color: #333;
   text-decoration: none;
+}
+
+#aboutParagraph a:hover {
+  color: cadetblue;
 }
 
 #navbarline {
