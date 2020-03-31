@@ -1,0 +1,32 @@
+Jacob Schantz 
+Lake Forest, CA 
+214-733-9512
+jlschantz@hotmail.com
+
+Summary
+Android
+Developer with years of software development experience in Android and iOS with some Frontend and Backend development.
+
+Education
+The University Of Texas At Dallas                   Bachelors of Science in Computer Science 
+Graduated                    
+Graduated Cum Laude with a GPA of 3.7
+
+Employment History
+Delvefore                     -  
+Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration.
+CurateLA                     -  
+Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github.
+Orangeen                     -  
+Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#. Launched to iOS App Store.
+Bock Host                     -  
+Developed custom camera Android application in Android Studio with Java. Implemented with MVC.
+Info-Power International                     -  
+Developed software applications for Android, iOS, Windows Surface, Macintosh, and even Google Glass! Used Java, Objective-C, and C# among other languages in research and development. Worked with Bluetooth, Wifi, and Tethering. Used MVC, MVP, REST, JSON, and SQLite. Worked directly with clients to build tailor-made solutions. Researched new technology, new platforms, new languages, new apis for prototype development projects. Worked with others in teams and used SVN source control.
+
+
+
+Languages
+English
+Spanish
+
