@@ -13,10 +13,10 @@ Graduated
 Graduated Cum Laude with a GPA of 3.7
 
 Employment History
-Delvefore                     -  
-Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration.
 CurateLA                     -  
 Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github.
+Delvefore                     -  
+Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration.
 Orangeen                     -  
 Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#. Launched to iOS App Store.
 Bock Host                     -  
