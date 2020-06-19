@@ -13,20 +13,19 @@ Graduated
 Graduated Cum Laude with a GPA of 3.7
 
 Employment History
-CurateLA                     -  
-Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github.
+Curate LA                     -  
+Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github. Responsible for all Android development.
 Delvefore                     -  
-Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration.
+Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration. Developed web pages and fixed site issues.
 Orangeen                     -  
-Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#. Launched to iOS App Store.
+Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#. Responsible for development.
 Bock Host                     -  
-Developed custom camera Android application in Android Studio with Java. Implemented with MVC.
+Developed custom camera Android application in Android Studio with Java. Implemented with MVC. Responsible for development.
 Info-Power International                     -  
-Developed software applications for Android, iOS, Windows Surface, Macintosh, and even Google Glass! Used Java, Objective-C, and C# among other languages in research and development. Worked with Bluetooth, Wifi, and Tethering. Used MVC, MVP, REST, JSON, and SQLite. Worked directly with clients to build tailor-made solutions. Researched new technology, new platforms, new languages, new apis for prototype development projects. Worked with others in teams and used SVN source control.
+Developed software applications for Android, iOS, Windows Surface, Macintosh, and even Google Glass! Used Java, Objective-C, and C# among other languages in research and development. Worked with Bluetooth, Wifi, and Tethering. Used MVC, MVP, REST, JSON, SQLite, SVN source control. Researched new technology, platforms, languages, and apis for prototype development projects. Worked in teams.
 
 
 
 Languages
 English
 Spanish
-
