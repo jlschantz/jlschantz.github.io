@@ -4,28 +4,22 @@ Lake Forest, CA
 jlschantz@hotmail.com
 
 Summary
-Android
-Developer with years of software development experience in Android and iOS with some Frontend and Backend development.
-
-Education
-The University Of Texas At Dallas                   Bachelors of Science in Computer Science 
-Graduated                    
-Graduated Cum Laude with a GPA of 3.7
+Software Engineer with an expertise in Android development and experience with iOS, Frontend, and Backend development.
 
 Employment History
+DealerSocket                     -  
+Worked as part of the highest performing team at the company. Used Kotlin, MVVM, RxJava, Coroutines, JUnit, Expresso, Mockito, Bitbucket, Bitrise, and Testrail. Groomed, Developed, Peer Reviewed, and Tested stories each sprint.
 Curate LA                     -  
-Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github. Responsible for all Android development.
+Developed an Android native application in Android Studio in Kotlin. Implemented with RxJava, MVVM, Retrofit, Room, JUnit, Expresso, Github.
 Delvefore                     -  
-Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. Test Driven Development. Continuous Integration. Developed web pages and fixed site issues.
+Developing web applications on the Frontend and Backend with VueJS, NuxtJS, NodeJS, Laravel, Jest, Github, Circleci. TDD or Test Driven Development. Continuous Integration.
 Orangeen                     -  
-Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#. Responsible for development.
+Created artwork for games in Inkscape. Animated game objects in Unity and Inkscape. Implemented functionality in Visual Studio with C#.
 Bock Host                     -  
-Developed custom camera Android application in Android Studio with Java. Implemented with MVC. Responsible for development.
+Developed custom camera Android application in Android Studio with Java.
 Info-Power International                     -  
-Developed software applications for Android, iOS, Windows Surface, Macintosh, and even Google Glass! Used Java, Objective-C, and C# among other languages in research and development. Worked with Bluetooth, Wifi, and Tethering. Used MVC, MVP, REST, JSON, SQLite, SVN source control. Researched new technology, platforms, languages, and apis for prototype development projects. Worked in teams.
+Developed software applications for Android, iOS, Windows Surface, Macintosh, and even Google Glass! Used Java, Objective-C, and C#. Worked with Bluetooth, Wifi, and Tethering. Used MVC, MVP, REST, JSON, SQLite, and SVN.
 
-
-
-Languages
-English
-Spanish
+Education
+The University Of Texas At Dallas                   Bachelors of Science in Computer Science                    
+Graduated Cum Laude with a GPA of 3.7
